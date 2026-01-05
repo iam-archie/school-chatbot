@@ -243,8 +243,6 @@ Please ask educational questions."
 ## 👨‍💻 Author
 
 **Sathish**  
-Social Eagle AI - Gen AI Architect Program  
-December 2025
 
 ## 📄 License
 
